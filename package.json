@@ -1,0 +1,13 @@
+{
+  "name": "hellomodule",
+  "version": "1.0.0",
+  "description": "a very first module",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "author": "nguyenanhtu",
+  "license": "ISC"
+}
